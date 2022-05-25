@@ -1,0 +1,35 @@
+.BookCard {
+  display: flex;
+
+  width: 33.33333%;
+  padding: 20px;
+
+  text-align: center;
+}
+
+.BookCard__content {
+  width: 100%;
+  padding: 20px;
+
+  background-color: #ececec;
+}
+
+.BookCard__img {
+  min-height: 200px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.BookCard__info {
+  text-align: left;
+}
+
+.BookCard__category {
+  min-height: 21px;
+
+  color: #666;
+}
+
+.BookCard__title {
+  font-weight: 700;
+}

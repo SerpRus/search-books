@@ -1,0 +1,15 @@
+.SearchBooks__title {
+  text-align: center;
+}
+
+.SearchBooks__form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 30px;
+}
+
+.SearchBooks__result {
+  text-align: center;
+}

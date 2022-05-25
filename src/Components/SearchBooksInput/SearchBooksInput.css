@@ -1,0 +1,16 @@
+.SearchBooksInput__input {
+  font-size: 20px;
+
+  width: 300px;
+  margin-right: 20px;
+  padding: 5px 10px;
+
+  border: 2px solid #000;
+  border-radius: 8px;
+}
+
+.SearchBooksInput__input:active,
+.SearchBooksInput__input:focus {
+  border: 2px solid orange;
+  outline: none;
+}
